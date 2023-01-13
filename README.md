@@ -22,3 +22,6 @@
 	
 			（strlen参数是指针，即地址，从此地址向后一个一个数字符，直到\0结束）                 
 
+二维数组的理解：
+![image](https://user-images.githubusercontent.com/78026898/212325377-f46cc2ea-cd8f-4ecd-bbdc-0cb8df46e288.png)
+
